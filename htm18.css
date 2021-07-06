@@ -1,0 +1,9 @@
+:root{
+    --primary-color:yellow;
+    gg:pink;
+}
+#fun{
+    background-color:var(gg);
+    height:200px;
+    width:calc(100% - 100px);
+}

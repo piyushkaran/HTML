@@ -1,0 +1,15 @@
+
+.flex-container{
+    background-color: yellow;
+    display:flex;
+    flex-flow: row wrap;
+    justify-content:flex-end;
+}
+
+.flex-child{
+    background-color:blue;
+    margin:10px;
+    padding:20px;
+    text-align: center;
+    width:200px;
+}

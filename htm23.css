@@ -1,0 +1,19 @@
+.grid-container{
+    background-color: red;
+    padding:20px;
+    display:grid;
+    height:600px;
+    grid-template-columns:200px 300px 200px;
+    justify-content: space-evenly;
+    align-content: space-between;
+}
+.grid-item{
+    background-color: blue;
+    border: 1px solid yellow;
+    padding:20px;
+    font-size:40px;
+    text-align: center;
+}
+#grid-1{
+    grid-column: 1/3;
+}

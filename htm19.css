@@ -1,0 +1,12 @@
+#div1{
+    background-color: tomato;
+    width:600px;
+    height:150px;
+}
+p:before{
+    content:"added before";
+}
+::selection{
+    color:blue;
+    background:yellow;
+}

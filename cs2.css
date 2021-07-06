@@ -1,0 +1,10 @@
+h1{
+    font-weight:30px;
+}
+p{
+    font-family: 'Langar', cursive;
+}
+body{
+    background-image: linear-gradient(to right, blue,green);
+
+}
